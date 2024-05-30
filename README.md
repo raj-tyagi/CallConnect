@@ -12,7 +12,17 @@ CallConnect is an Android application designed to provide seamless video and aud
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+<p align="center">
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/aab04b9f-e2a1-4093-aec7-6525623c0f13" width="200" />
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/aba4ceb7-7e9e-4487-b979-9a61459cf421" width="200" />
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/33087a79-0dd2-4ec8-9308-6b8962a57850" width="200" />
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/cd02e6aa-0189-4b0b-bf1a-f1f33d967714" width="200" />
+</p>
+<p align="center">
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/bb58934e-32ba-44f6-9b47-9864dc3bc4da" width="200" />
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/0d6086f3-de8a-4e59-aae4-421b662f0002" width="200" />
+  <img src="https://github.com/raj-tyagi/CallConnect/assets/110656539/1f6c8a40-926c-4a3a-ad58-d8a67592637c" width="200" />
+</p>
 
 ## Installation
 
