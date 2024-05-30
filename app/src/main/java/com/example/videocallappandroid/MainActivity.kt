@@ -35,8 +35,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun videoCallServices(userID: String) {
-        val appID: Long = 1522513164 // your App ID of Zego Cloud
-        val appSign = "9b72e555e43cedc9054ae16cdc90b7d37f5d017b5a40397e4d62ff3f4e73dc2c" // your App Sign of Zego Cloud
+        val appID: Long = 0 // your App ID of Zego Cloud
+        val appSign = "dummy" // your App Sign of Zego Cloud
         val application = application // Android's application context
 
         val callInvitationConfig = ZegoUIKitPrebuiltCallInvitationConfig()
