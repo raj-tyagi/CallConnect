@@ -77,5 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to [https://www.linkedin.com/in/raj-tyagi-83765b21b/] (Raj Tyagi)
+If you have any questions or suggestions, feel free to reach out 
+- **Raj Tyagi**: [LinkedIn](https://www.linkedin.com/in/raj-tyagi-83765b21b/) 
 
